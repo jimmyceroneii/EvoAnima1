@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EvoAnima</string>
+    <string name="player_name_input">Player Name</string>
+    <string name="autofill_name">Player</string>
+    <string name="welcome_message">Welcome to EvoAnima!</string>
+    <string name="name_prompt">What\'s your name?</string>
+    <string name="submit">Submit</string>
+    <string name="button_explore">Explore</string>
+    <string name="button_next">Next</string>
+    <string name="character_level">Character Level</string>
+    <string name="button_restart">Restart</string>
+    <string name="anima_button">Anima</string>
+    <string-array name="interactions">
+        <item>Feed</item>
+        <item>Play</item>
+        <item>Train</item>
+    </string-array>
+</resources>

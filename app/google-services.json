@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "943517136226",
+    "firebase_url": "https://evoanima-5b090.firebaseio.com",
+    "project_id": "evoanima-5b090",
+    "storage_bucket": "evoanima-5b090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943517136226:android:7dcede59bf44a9d208283b",
+        "android_client_info": {
+          "package_name": "com.example.evoanima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943517136226-7d4dpsjf27lvjvftco3hhpgilst17f2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGbws9iGsptcs9vaRit4lgyyiUoDzugh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943517136226-7d4dpsjf27lvjvftco3hhpgilst17f2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
